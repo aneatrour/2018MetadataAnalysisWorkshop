@@ -54,5 +54,14 @@ Linux | Download the TAR package, extract it, and run `./refine` to start. |
 
 Upon launch, OpenRefine will run as a local server, opening your computer's browser. As long as OpenRefine is running, you can point your browser at http://127.0.0.1:3333/ to use it, even in several browser tabs/windows.
 
+### ExifTool and MDQC (Optional)
+
+If you would like to follow along during the Metadata Analysis Tools Demo in the afternoon, the tools that will be demontrated are:
+
+- ExifTool, (https://www.sno.phy.queensu.ca/~phil/exiftool/)
+- MDQC, (https://www.weareavp.com/products/mdqc/)
+
+If you wish you can install these prior to the workshop, or you can observe the demonstration.
+
 ## License
 All instructional materials are being made available under a [Creative Commons Attribution license] (https://creativecommons.org/licenses/by/4.0/). Feel free to reuse these materials according to these license terms.
